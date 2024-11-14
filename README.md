@@ -1,3 +1,3 @@
 # ML_Project
-Some projects I have done when studying in Northeastern University/n
-Including：Assignment 2 the CV task for classification（The Oxford-IIIT Pet Dataset）based on fastai api
+Some Machine learning projects I have done when studying in Northeastern University
+Assignment 2 :A CV task for Dogs and Cats classification（The Oxford-IIIT Pet Dataset）based on fastai api
